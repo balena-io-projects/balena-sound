@@ -13,7 +13,7 @@ We've outlined the installation steps below. If you want a step-by-step tutorial
 - Any device from our [supported devices list](../docs/device-support#recommended). For the best experience, we recommend using a Raspberry Pi 3B+ or 4B.
 - An SD Card! We recommend the Sandisk Extreme Pro series. 8GB should be plenty enough for this project.
 - Power supply
-- 3.5mm audio cable to the input on your speakers/Hi-Fi (usually 3.5mm or RCA). Alternatively you can use the HDMI port to get digital audio out.
+- 3.5mm audio cable to the input on your speakers/Hi-Fi (usually 3.5mm or RCA). Alternatively you can use the HDMI port to get digital audio out, or a [USB/I2S DAC or Amp board](https://sound.balenalabs.io/docs/audio-interfaces/)
 
 ## Software required
 
@@ -68,6 +68,7 @@ For example, if you don't plan on using the Spotify integration, you can edit th
 
 If you are running into issues getting your balenaSound application running, please try the following:
 1. Check the [support and troubleshooting guide](../support) for common issues and how to resolve them.
-2. Post in the [balenaSound forum](https://forums.balena.io/c/balenalabs/balenasound/85) for help from our growing community.
-3. Create an issue on the [balenaSound GitHub project](https://github.com/balenalabs/balena-sound/issues/new/choose) if you find your issue may be a problem with balenaSound.
+2. Take a look at our [architecture](https://sound.balenalabs.io/contributing/architecture/), [usage](https://sound.balenalabs.io/docs/usage), [device support](https://sound.balenalabs.io/docs/device-support/), [audio interfaces](https://sound.balenalabs.io/docs/audio-interfaces/) and [customization](https://sound.balenalabs.io/docs/customization) pages for setup info and tips on using balenaSound.
+3. Post in the [balenaSound forum](https://forums.balena.io/c/balenalabs/balenasound/85) for help from our growing community.
+4. Create an issue on the [balenaSound GitHub project](https://github.com/balenalabs/balena-sound/issues/new/choose) if you find your issue may be a problem with balenaSound.
 
